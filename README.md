@@ -16,3 +16,22 @@ This is a simple JavaScript application that allows users to input names, sort t
 - **HTML**: Structure of the application.
 - **CSS**: Styling for better visual presentation.
 - **JavaScript**: Core functionality for input handling, sorting, and DOM manipulation.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
+   ```
+2. Open the `index.html` file in your browser to run the application.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Submit a pull request with detailed information about your changes.
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
