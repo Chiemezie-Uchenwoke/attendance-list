@@ -30,8 +30,5 @@ Contributions are welcome! If you'd like to contribute:
 2. Create a new branch for your feature or bugfix.
 3. Submit a pull request with detailed information about your changes.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
